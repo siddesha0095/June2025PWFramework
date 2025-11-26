@@ -13,7 +13,8 @@ test('verify valid login @login',
         ]
     }
     , async ({ homePage }) => {
-    await expect(homePage.page).toHaveTitle('My Account');
+        await expect(homePage.page).toHaveTitle('My Account');
+        
 });
 
 
