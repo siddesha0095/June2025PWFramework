@@ -1,1 +1,1 @@
-[{"uid":"ae0288adf0090bb4","name":"[QA] sample test @sample","time":{"start":1765005731471,"stop":1765005731478,"duration":7},"status":"passed","severity":"normal"}]
+[{"uid":"a88e52b9236e4d09","name":"[QA] verify valid login @login","time":{"start":1765008668906,"stop":1765008674695,"duration":5789},"status":"passed","severity":"normal"}]
